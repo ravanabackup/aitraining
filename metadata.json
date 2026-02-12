@@ -1,0 +1,7 @@
+{
+  "name": "The Sajin Advisor - Strategic Romantic Command",
+  "description": "A high-stakes tactical dashboard and real-time voice advisor for managing high-value romantic transitions with strategic precision.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
